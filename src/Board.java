@@ -1,3 +1,15 @@
+/*
+ * 
+ * 
+ * Version 1.0
+ * 
+ * This is the main as well as Frame where the game is added
+ * 
+ */
+
+
+
+
 import java.awt.BorderLayout;
 import java.awt.Color;
 

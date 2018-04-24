@@ -1,3 +1,16 @@
+/*
+ * 
+ * 
+ * Version 1.0
+ * 
+ * This Where the Snake is drawn and where game logic is calculated
+ * 
+ */
+
+
+
+
+
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.awt.Color;
